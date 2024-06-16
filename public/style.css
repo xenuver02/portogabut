@@ -95,6 +95,7 @@ section{
 }
 .header .navbar{
     width: 100%;
+    background-color: #000;
 }
 .header .navbar a{
     display: block;
